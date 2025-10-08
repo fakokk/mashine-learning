@@ -6,7 +6,7 @@
 - [ ] Лр №3 - Grid Search, Cross-Validation, Regularization и сравнение kNN с линейными моделями
 - [ ] Лр №4 - Decision Trees, Bagging и Random Forest
 - [ ] Лр №5 - Gradient Boosted Trees и SVM
-
+- [ ] Лр №6 - Искуственные нейронные сети
 
 ## Ссылки на курс
 - [Moodle](https://moodle.innopolis.university/course/view.php?id=3302)
